@@ -1,0 +1,3 @@
+[submodule "code-linguists-chore-bot"]
+	path = code-linguists-chore-bot
+	url = https://github.com/DamonCrutchfield/code-linguists-chore-bot
